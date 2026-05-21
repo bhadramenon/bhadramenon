@@ -1,6 +1,6 @@
 # Hi, I'm Bhadra Menon
 
-## SOC Analyst | Network Engineer | Linux Automation Enthusiast
+## Network Engineer | Linux Automation Enthusiast | SOC Analyst 
 
 ---
 
