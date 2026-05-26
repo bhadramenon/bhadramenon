@@ -20,8 +20,7 @@ I focus on building practical, real-world projects in:
 ## Technical Skills
 
 ### Networking
-- TCP/IP, DNS, DHCP, VPN, ICMP  
-- Routing Protocols: OSPF, BGP, EIGRP  
+- TCP/IP, DNS, DHCP, VPN, ICMP    
 - Network troubleshooting & diagnostics  
 
 ### Cybersecurity / SOC
