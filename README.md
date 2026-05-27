@@ -37,7 +37,7 @@ I focus on building practical, real-world projects in:
 ### Data & Tools
 - Python (basic to intermediate)  
 - Pandas, NumPy, Scikit-learn  
-- Wireshark, Nmap  
+- Wireshark, Nmap, tshark
 
 ---
 
