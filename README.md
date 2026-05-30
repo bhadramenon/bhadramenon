@@ -35,10 +35,9 @@ I focus on building practical, real-world projects in:
 - System monitoring & automation  
 
 ### Data & Tools
-- Python (basic to intermediate)  
-- Pandas, NumPy, Scikit-learn  
 - Wireshark, Nmap, tshark
-
+- Python (basic to intermediate)  
+- Pandas, NumPy, Scikit-learn 
 ---
 
 ## Featured Projects
