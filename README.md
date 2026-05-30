@@ -79,7 +79,7 @@ I focus on building practical, real-world projects in:
 ## Currently Learning
 
 - Advanced Linux Shell Scripting  
-- SOC Detection Engineering  
+- Network Security Monitoring 
 - Network Automation  
 - Security Incident Response Workflows  
 
