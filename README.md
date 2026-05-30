@@ -42,6 +42,17 @@ I focus on building practical, real-world projects in:
 ---
 
 ## Featured Projects
+---
+### Network Threat Detector
+- Developed a Linux-based network monitoring tool using Bash and Tshark
+- Monitors DNS and TLS traffic to identify suspicious domains and unusual network activity
+- Detects potential DNS flooding based on configurable thresholds
+- Generates logs for traffic analysis and troubleshooting
+- Built as a hands-on project to strengthen skills in network monitoring, packet analysis, and Linux scripting
+
+**Tech Used:** Linux, Bash, Tshark, DNS, TLS, Wireshark, Networking
+
+* Repository: https://github.com/bhadramenon/network-threat-detector
 
 ---
 
